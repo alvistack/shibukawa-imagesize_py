@@ -1,0 +1,5 @@
+python-imagesize source: file-without-copyright-information
+python-imagesize source: no-debian-changes
+python-imagesize source: source-contains-prebuilt-windows-binary
+python-imagesize source: source-is-missing
+python-imagesize source: source-package-encodes-python-version
